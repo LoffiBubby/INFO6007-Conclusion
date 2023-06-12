@@ -1,8 +1,3 @@
-
-LO2. Apply project management knowledge, tools and techniques
-LO3. Demonstrate developed and refined project management skills
-LO4. Develop basic proficiency in project management tools and practices(not sure)
-
 # LEC 1 
 1. What is a project?
    
