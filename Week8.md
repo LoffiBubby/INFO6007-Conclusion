@@ -165,7 +165,3 @@ A4 (a): When presenting risk in a project proposal, it is important to provide a
 
 A4 (b): The objective of discussing risks in a project proposal is to demonstrate a proactive and realistic approach to project management. By addressing risks upfront, the proposal shows that the project team has considered potential obstacles and has plans in place to mitigate or manage them. It provides transparency to stakeholders, instills confidence in the project's feasibility and success, and allows for better decision-making and resource allocation. Additionally, discussing risks can also help in identifying any gaps in the project plan or potential areas of improvement before the project is initiated.
 
-
-
-
-
